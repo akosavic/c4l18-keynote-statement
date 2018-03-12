@@ -343,6 +343,7 @@ unprofessional behavior.
 * Heather Coates
 * Josh Hall
 * Laura C. Wood
+* Andrea Kosavic
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
